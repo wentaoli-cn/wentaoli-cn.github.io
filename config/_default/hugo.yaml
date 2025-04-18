@@ -1,0 +1,59 @@
+baseURL: "https://iloatnew.com/"
+languageCode: zh
+title: "iloatnew's space"
+theme: PaperMod
+minify:
+  disableXML: true
+  minifyOutput: true
+enableEmoji: true
+params:
+  env: production
+  defaultTheme: auto
+  disableThemeToggle: false
+  disableScrollToTop: false
+  hideSummary: true
+  comments: true
+  hideFooter: true
+  assets:
+    disableHLJS: true
+    disableFingerprinting: true
+    favicon: "icon/favicon.ico"
+    favicon16x16: "icon/favicon-16x16.png"
+    favicon32x32: "icon/favicon-32x32.png"
+    apple_touch_icon: "icon/apple-touch-icon.png"
+    safari_pinned_tab: "icon/safari-pinned-tab.svg"
+  label:
+    text: Home
+  homeInfoParams:
+    Title: "Hi there 👋"
+    Content: "Great to have you here! Pull up a chair and stay awhile ☕️"
+    Avatar: "icon/avatar.png"
+  socialIcons:
+    - name: bilibili
+      url: "https://space.bilibili.com/433213335/"
+    - name: email
+      url: "mailto:iloatnew@icloud.com"
+  foregroundJS: "js/foreground.js"
+  copyright: "© 2025 Copyright: iloatnew.com"
+  giscus:
+      repoId: "R_kgDOObjAyg"
+      categoryId: "DIC_kwDOObjAys4Cpik2"
+  DateFormat: "2006-01-02 Mon"
+menu:
+  main:
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 1
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 2
+markup:
+  highlight:
+    noClasses: false
+    lineNos: true
+    anchorLineNos: false
+    lineNumbersInTable: true
+    codeFences: true
+    guessSyntax: true
