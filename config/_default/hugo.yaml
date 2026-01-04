@@ -34,7 +34,7 @@ params:
     - name: email
       url: "mailto:iloatnew@icloud.com"
   foregroundJS: "js/foreground.js"
-  copyright: "© 2025 Copyright: iloatnew.com"
+  copyright: "© 2026 Copyright: iloatnew.com"
   giscus:
       repoId: "R_kgDOObjAyg"
       categoryId: "DIC_kwDOObjAys4Cpik2"
