@@ -7,7 +7,7 @@ tocopen: true
 hidemeta: false
 comments: true
 disableShare: true
-tags: [Job]
+tags: [Career]
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowCodeCopyButtons: true
