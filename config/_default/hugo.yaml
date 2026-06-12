@@ -1,5 +1,5 @@
 baseURL: "https://iloatnew.com/"
-locale: zh
+locale: en
 title: "iloatnew's space"
 theme: PaperMod
 minify:
